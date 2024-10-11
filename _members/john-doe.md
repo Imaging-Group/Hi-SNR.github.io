@@ -1,7 +1,7 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Nicole Bienert
+image: images/members/Nicole_Bienert_2024.jpg
+role: pi
 group: alum
 links:
   github: john-doe
