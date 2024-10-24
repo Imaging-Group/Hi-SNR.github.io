@@ -11,6 +11,7 @@
   date: '2023-01-01'
   link: https://doi.org/g8n25g
   orcid: 0000-0002-9428-327X
+  nicole-bienert: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TGRS.2022.3147172
@@ -28,6 +29,7 @@
   date: '2022-01-01'
   link: https://doi.org/g8n25h
   orcid: 0000-0002-9428-327X
+  nicole-bienert: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1029/2020JF006023
@@ -45,6 +47,7 @@
   date: '2021-05-01'
   link: https://doi.org/g78n3v
   orcid: 0000-0002-9428-327X
+  nicole-bienert: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
