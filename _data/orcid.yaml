@@ -1,6 +1,2 @@
 - orcid: 0000-0002-9428-327X
   nicole-bienert: true
-  {% include list.html data="citations" component="citation" filters="jane-doe: true" %}
-
-
-
