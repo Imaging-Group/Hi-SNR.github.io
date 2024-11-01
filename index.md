@@ -12,11 +12,11 @@ carousels:
 
 {% include section.html %}
 
-## Highlights
+## Research Areas
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are inventing radar techniques to measure ice properties at scales previously unexplored. The systems she develops provide measurements that better constrain ice sheet models to improve the accuracy of sea level rise predictions.
 
 {%
   include button.html
@@ -31,15 +31,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/approachingradar.jpg"
   link="research"
-  title="Our Research"
+  title="Cryosphere Radars"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are developing radars and data assimilation techniques for 3D mapping of vegetation structure and water content to improve wildfire risk predictions, CO2 sequestration assessment, and ecosystem health.
 
 {%
   include button.html
@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Biosphere Radars"
   flip=true
   style="bare"
   text=text
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are creating new methods of monitoring our limitted resources including drone-based soil moisture estimation and satellite-based aquifer volume retreivals.
 
 {%
   include button.html
@@ -81,6 +81,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Near Subsurface Radar"
+  text=text
+%}
+
+We develop imaging algorithms not only for radar, but also for cameras. We focus on equitable imaging and develop methods that ensure beautiful, crisp images for all users. 
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Near Subsurface Radar"
   text=text
 %}
