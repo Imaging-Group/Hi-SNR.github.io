@@ -52,7 +52,7 @@ We are developing radars and data assimilation techniques for 3D mapping of vege
 
 {%
   include feature.html
-  image="images/tree_radar.jpg"
+  image="images/tree_radar.gif"
   link="projects"
   title="Biosphere Radars"
   flip=true
