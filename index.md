@@ -1,7 +1,7 @@
 ---
 ---
 
-# Imaging-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+#  We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible. 
 
 
 
