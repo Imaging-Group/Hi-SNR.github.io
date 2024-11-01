@@ -7,9 +7,10 @@ footer: images/background.jpg
 proofer: false
 
 carousels:
-  - image: images/students.jpg
-  - image: images/ravine.jpg
-  - image: images/connecting_apres.jpg
+  - images:
+    - image: images/students.jpg
+    - image: images/ravine.jpg
+    - image: images/connecting_apres.jpg
     
 # site social media and other links
 links:
