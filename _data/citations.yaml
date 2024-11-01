@@ -15,6 +15,39 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/36/10006360/9989342/biene5-3213047-large.gif
+- id: doi:10.1109/igarss46834.2022.9883837
+  title: Processing and Detecting Artifacts in Multi-Input Multi-Output Phase-Sensitive
+    ICE Penetrating Radar Data
+  authors:
+  - Akua A. McLeod
+  - Sean T. Peters
+  - Riley Culberg
+  - Dustin M. Schroeder
+  - Nicole L. Bienert
+  - Winnie Chu
+  - Tun Jan Young
+  - Poul Christoffersen
+  publisher: IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+  date: '2022-07-17'
+  link: https://doi.org/g8n7ss
+  orcid: 0000-0002-9428-327X
+  nicole-bienert: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/igarss46834.2022.9883236
+  title: SFMCW Orthogonal Wave Beamforming Concept for Distributed Orbital Sounding
+  authors:
+  - Nicole Bienert
+  - Mark S. Haynes
+  - Dustin M. Schroeder
+  - Robert M. Beauchamp
+  publisher: IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+  date: '2022-07-17'
+  link: https://doi.org/g8n7st
+  orcid: 0000-0002-9428-327X
+  nicole-bienert: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TGRS.2022.3147172
   title: Post-Processing Synchronized Bistatic Radar for Long Offset Glacier Sounding
   authors:
@@ -53,3 +86,19 @@
   plugin: sources.py
   file: sources.yaml
   image: https://agupubs.onlinelibrary.wiley.com/cms/asset/84464ab5-18fd-4b4b-8a2f-613dc5ca5c3e/jgrf21358-fig-0001-m.jpg
+- id: 10.1109/AERO.2017.7943897
+  title: 'Inflatable antenna for CubeSat: A new spherical design for increased X-band
+    gain'
+  authors:
+  - Alessandra Babuscia
+  - Jonathan Sauder
+  - Aman Chandra
+  - Jekan Thangavelautham
+  - Lorenzo Feruglio
+  - Nicole Bienert
+  publisher: 2017 IEEE Aerospace Conference
+  date: '2017-03-01'
+  link: https://doi.org/g8pwjd
+  image: https://ieeexplore-ieee-org.colorado.idm.oclc.org/mediastore/IEEE/content/media/7935773/7943554/7943897/7943897-fig-9-source-small.gif
+  plugin: sources.py
+  file: sources.yaml
