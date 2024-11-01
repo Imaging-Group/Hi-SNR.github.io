@@ -54,7 +54,7 @@ We are developing radars and data assimilation techniques for 3D mapping of vege
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tree_radar.jpg"
   link="projects"
   title="Biosphere Radars"
   flip=true
@@ -79,7 +79,7 @@ We are creating new methods of monitoring our limitted resources including drone
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/drone_ani.gif"
   link="team"
   title="Near Subsurface Radar"
   text=text
@@ -89,10 +89,11 @@ We are creating new methods of monitoring our limitted resources including drone
 
 We develop imaging algorithms not only for radar, but also for cameras. We focus on equitable imaging and develop methods that ensure beautiful, crisp images for all users. 
 
+
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="projects"
+  text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -102,8 +103,10 @@ We develop imaging algorithms not only for radar, but also for cameras. We focus
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Near Subsurface Radar"
+  image="images/camera_testing.jpg"
+  link="projects"
+  title="Computational Photography"
+  flip=true
+  style="bare"
   text=text
 %}
