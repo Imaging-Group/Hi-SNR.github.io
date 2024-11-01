@@ -1,11 +1,8 @@
 ---
-name: Sarah Johnson
+name: Austin Vera
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+description: Undergraduate Research Assistant
+role: Glacial Layer Tracking
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
