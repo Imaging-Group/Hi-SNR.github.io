@@ -4,6 +4,8 @@
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/36/9633014/9694618/biene4abcdefghi-3147172-large.gif
 - id: doi:10.1029/2020JF006023
   image: https://agupubs.onlinelibrary.wiley.com/cms/asset/84464ab5-18fd-4b4b-8a2f-613dc5ca5c3e/jgrf21358-fig-0001-m.jpg
+- id: 10.1109/AERO.2017.7943897
+  image: https://ieeexplore-ieee-org.colorado.idm.oclc.org/mediastore/IEEE/content/media/7935773/7943554/7943897/7943897-fig-9-source-small.gif
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
 #  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
