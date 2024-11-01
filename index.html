@@ -446,8 +446,13 @@
   <section class="background" data-size="page">
     <h1 id="we-develop-computational-imaging-techniques-that-sense-our-environment-at-a-scale-resolution-or-quality-that-was-previously-impossible">We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible.</h1>
 
+<hr>
+<p>gallery_a: [images/background.jpg, images/photo.jpg]</p>
+
+<hr>
+
 <div class="carousel__holder">
-    <div id="carousel0" class="carousel">
+    <div id="carousel-1" class="carousel">
         
         
         <div class="carousel__track">
@@ -597,7 +602,7 @@
   
   setInterval(function(){
     var j=0;
-    var elements = document.querySelectorAll('#carousel0 .carousel__control--forward');
+    var elements = document.querySelectorAll('#carousel-1 .carousel__control--forward');
     for(i=(elements.length - 1);i>-1;i--) {
       if(isVisible(elements[i])) j=i;
     }
@@ -605,16 +610,6 @@
   },7000);
   
 </script>
-
-<p>carousels:</p>
-<ul>
-  <li>images:
-    <ul>
-      <li>image: /images/background.jpg</li>
-      <li>image: /images/photo.jpg</li>
-    </ul>
-  </li>
-</ul>
   </section>
 
   
