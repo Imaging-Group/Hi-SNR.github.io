@@ -7,12 +7,9 @@ footer: images/background.jpg
 proofer: false
 
 carousels:
-  - images: 
-    image="images/tree_radar.gif"
-
-    - image: images/students.jpg
-    - image: images/ravine.jpg
-    - image: images/connecting_apres.jpg
+  - image: images/students.jpg
+  - image: images/ravine.jpg
+  - image: images/connecting_apres.jpg
     
 # site social media and other links
 links:
