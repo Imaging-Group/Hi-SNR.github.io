@@ -85,6 +85,8 @@ We are creating new methods of monitoring our limitted resources including drone
   text=text
 %}
 
+{% capture text %}
+
 We develop imaging algorithms not only for radar, but also for cameras. We focus on equitable imaging and develop methods that ensure beautiful, crisp images for all users. 
 
 {%
