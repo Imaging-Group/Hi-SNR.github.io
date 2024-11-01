@@ -86,19 +86,3 @@
   plugin: sources.py
   file: sources.yaml
   image: https://agupubs.onlinelibrary.wiley.com/cms/asset/84464ab5-18fd-4b4b-8a2f-613dc5ca5c3e/jgrf21358-fig-0001-m.jpg
-- id: 10.1109/AERO.2017.7943897
-  title: 'Inflatable antenna for CubeSat: A new spherical design for increased X-band
-    gain'
-  authors:
-  - Alessandra Babuscia
-  - Jonathan Sauder
-  - Aman Chandra
-  - Jekan Thangavelautham
-  - Lorenzo Feruglio
-  - Nicole Bienert
-  publisher: 2017 IEEE Aerospace Conference
-  date: '2017-03-01'
-  link: https://doi.org/g8pwjd
-  image: https://ieeexplore-ieee-org.colorado.idm.oclc.org/mediastore/IEEE/content/media/7935773/7943554/7943897/7943897-fig-9-source-small.gif
-  plugin: sources.py
-  file: sources.yaml
