@@ -4,11 +4,9 @@
 #  We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible. 
 
 ---
-gallery_a: [images/background.jpg, images/photo.jpg]
+  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 ---
-{% include carousel.html height="50"
-   unit="%" duration="7" images=gallery_a %}
 
 {% include section.html %}
 
