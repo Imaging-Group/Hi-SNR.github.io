@@ -1,47 +1,27 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Passive Synchronization
+  subtitle: matlab code
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/bienert/Bistatic_Radar_Public
+  description: Code for removing clock phase offset in bistatic radar data.
+  repo: bienert/Bistatic_Radar_Public
   tags:
-    - resource
+    - code
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Instructions for Building SDR Receiver
+  subtitle: for use with an ApRES as a bistatic radar
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/bienert/Bistatic_Radar/blob/main/Bienert's%20Bistatic%20Manual.pdf
+  description: Instruction manual for how to build and program an Ettus E312 SDR receiver to be used with an ApRES as a bistatic radar.
+  repo: bienert/Bistatic_Radar_Public
   tags:
-    - resource
+    - hardware
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Store Glacier Greenland Bistatic Radar Data
+  subtitle: centered at 330MHz, 1km thick ice
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://www.usap-dc.org/view/dataset/601472
+  description: This dataset includes raw, uncalibrated voltage vs time measurements from a bistatic radar receiver. We also include some processed data including upsampled matched filtered data, GPS receiver position, antenna separation
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - data
