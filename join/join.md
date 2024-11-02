@@ -5,30 +5,10 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Join
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Interested in joining our team? Check out our opportunities below and reach out. We would love to hear from you! 
 
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
 
 {% include section.html %}
 
@@ -73,5 +53,11 @@ Lorem ipsum dolor sit amet
 consectetur adipiscing elit  
 sed do eiusmod tempor
 {% endcapture %}
+
+Please email Professor Nicole Bienert at bienert AT colorado dot edu to discuss opportunities. Please include the following information:  
+- What are you interested in researching and why? What excites you?
+- Please link your resume or CV
+- A bit of information about yourself so that we can get to know you (this is our favorite part!)
+- If you have any of the following handy, we would love to read your diversity statement, personal statement, and / or research statement. These statements help us understand how you could contribute to our team's inclusive, creative, and positive atmosphere. Don't worry if you don't have these documents available. 
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
