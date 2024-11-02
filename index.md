@@ -1,10 +1,9 @@
 ---
 carousels:
-  - images: 
-    - image: /uploads/slider/image1.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image4.jpg
+  - images:
+    - image: images/students.jpg
+    - image: images/ravine.jpg
+    - image: images/connecting_apres.jpg
 ---
 
 #  We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible. 
