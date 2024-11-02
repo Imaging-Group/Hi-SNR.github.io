@@ -31,7 +31,8 @@ We develop computational photography algorithms that improve image quality and m
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+<iframe width="420" height="315" src="https://youtu.be/WaF6N42GQiw" frameborder="0" allowfullscreen></iframe>
+
 
 {% include section.html %}
 
