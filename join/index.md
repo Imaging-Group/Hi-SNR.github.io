@@ -17,12 +17,12 @@ Interested in joining our team? Check out our opportunities below and reach out.
 {%
   include card.html
   title="Paid PhD Positions"
-  description="We are seeking students who will have 
-  or currently have a bachelors degree 
-  to join the Ph.D program at CU Boulder, 
-  and join our lab. If interested, 
-  please apply to the [CU PhD program](https://www.colorado.edu/ecee/admissions) 
-  AND email Professor Nicole Bienert 
+  description="We are seeking prospective Ph.D. 
+  students to join our lab. We invite 
+  students who will have or currently hold
+  a bachelors degree to apply to
+  the Ph.D program at CU Boulder, 
+  and email Professor Nicole Bienert 
   about joining the lab. We offer 
   Research Assistant positions 
   which covers tuition and provides 
