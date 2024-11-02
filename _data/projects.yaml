@@ -1,7 +1,7 @@
 - title: Passive Synchronization
   subtitle: matlab code
   group: featured
-  image: images/photo.jpg
+  image: images/passive_sync.jpg
   link: https://github.com/bienert/Bistatic_Radar_Public
   description: Code for removing clock phase offset in bistatic radar data.
   repo: bienert/Bistatic_Radar_Public
