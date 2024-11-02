@@ -4,9 +4,9 @@ carousels:
     - image: images/students.jpg
     - image: images/ravine.jpg
     - image: images/connecting_apres.jpg
+    - image: images/Tents.jpg
     - image: images/testing_with_Neo.jpg
-    - image: images/radar_tripod.jpg
-    - image: images/radar_components.jpg
+    - image: images/radar_tripod_crop.jpg
 ---
 
 #  We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible. 
