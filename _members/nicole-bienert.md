@@ -4,8 +4,8 @@ image: images/members/Nicole_Bienert_2024.jpg
 role: pi
 affiliation: University of Colorado, Department of Electrical, Computer and Energy Engineering
 aliases:
-  - J. Smith
-  - J Smith
+  - N. Bienert
+  - N. L. Bienert
 links:
   home-page: https://nlbpsu.wixsite.com/nicolebienert
   orcid: 0000-0002-9428-327X
