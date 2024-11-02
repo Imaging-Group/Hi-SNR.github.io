@@ -1,12 +1,15 @@
 ---
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
 ---
 
 #  We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible. 
 
----
-  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
----
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 {% include section.html %}
 
