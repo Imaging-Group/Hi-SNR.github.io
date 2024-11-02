@@ -32,11 +32,14 @@ We develop computational photography algorithms that improve image quality and m
 ## Highlighted
 
 2020 IGARSS Prize Paper Award Winner
+
 [Processing-Based Synchronization Approach for Bistatic Radar Glacial Tomography](https://ieeexplore.ieee.org/document/9323969)
+
 This novel processing based synchronization approach allows coherent long-offset radar processing. This is a key enabling technology for radar tomography of glaciers. 
+
 *N. Bienert, D.. Schroeder, S. Peters, M. Siegfried*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WaF6N42GQiw?si=peiCi045mLVfM2el&amp;start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WaF6N42GQiw?si=peiCi045mLVfM2el&amp;controls=0&amp;start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include section.html %}
 
