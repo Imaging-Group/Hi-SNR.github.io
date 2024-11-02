@@ -56,10 +56,12 @@ in either academia or industry."
   description="Would you like to get some hands-
 on experience with research? 
 Are you building up your resume
-or perhaps you want to network
-or get a letter of recommendation? 
+or perhaps you want to network? Or
+are you seeking a letter of recommendation
+for a future PhD application? 
 We would love to help! We welcome 
-anyone with excitement for the field 
+all *current* CU Boulder students
+with excitement for the field 
 and a positive attitude!"
 %}
 
