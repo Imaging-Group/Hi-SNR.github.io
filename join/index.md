@@ -17,7 +17,19 @@ Interested in joining our team? Check out our opportunities below and reach out.
 {%
   include card.html
   title="Paid PhD Positions"
-  description="We welcome interested students who will be graduating with a B.S. degree or already have a B.S. degree to apply to the [CU PhD program(https://www.colorado.edu/ecee/admissions) AND email Professor Nicole Bienert about joining the lab. We offer Research Assistant positions which covers tuition and provides a stipend. Students will do research in parallel with classes and have the option to obtain a Masters degree while pursuing a PhD."
+  description="We are seeking prospective Ph.D. 
+  students to join our lab. We invite 
+  students who will have or currently hold
+  a bachelors degree to apply to
+  the Ph.D program at CU Boulder, 
+  and email Professor Nicole Bienert 
+  about joining the lab. We offer 
+  Research Assistant positions 
+  which covers tuition and provides 
+  a stipend. Students will do research 
+  in parallel with classes and have 
+  the option to obtain a Masters 
+  degree while pursuing a PhD."
 %}
 
 {% endcapture %}
@@ -42,15 +54,16 @@ in either academia or industry."
 {%
   include card.html
   title="Volunteer Research Assistant"
-  description="WVolunteer Research Assistant
-Would you like to get some hands-
-on experience with research? 
-Are you building up your resume
-or perhaps you want to network
-or get a letter of recommendation? 
-We would love to help! We welcome 
-anyone with excitement for the field 
-and a positive attitude!"
+  description="We welcome all *current* CU Boulder 
+  students with excitement for the field 
+  and a positive attitude to join 
+  our lab! Would you like to get some hands-
+  on experience with research? 
+  Are you building up your resume
+  or perhaps you want to network? Or
+  are you seeking a letter of recommendation
+  for a future PhD application? 
+  We would love to help!"
 %}
 
 {% endcapture %}
