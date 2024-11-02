@@ -1,10 +1,6 @@
 ---
-name: Nicole Bienert
-image: images/members/Nicole_Bienert_2024.jpg
-role: pi
-group: alum
-links:
-  github: john-doe
+name: Liza
+image: images/photo.jpg
+role: Masters' Researcher
+group: student
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
