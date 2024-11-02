@@ -53,8 +53,7 @@ in either academia or industry."
 {%
   include card.html
   title="Volunteer Research Assistant"
-  description="Volunteer Research Assistant
-Would you like to get some hands-
+  description="Would you like to get some hands-
 on experience with research? 
 Are you building up your resume
 or perhaps you want to network
