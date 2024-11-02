@@ -1,14 +1,13 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 3
   tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At Imaging Lab, we are dedicated to open science. We believe that sharing our code and data not only enhances collaboration but also accelerates innovation within the research community. By making our projects openly accessible, we invite others to build upon our work, fostering transparency and reproducibility in scientific research. We encourage open dialogue and contributions, as we strive to create a more inclusive and collaborative scientific environment.
 
 {% include tags.html tags="publication, resource, website" %}
 
