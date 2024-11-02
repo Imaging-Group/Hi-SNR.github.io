@@ -4,11 +4,14 @@ carousels:
     - image: images/students.jpg
     - image: images/ravine.jpg
     - image: images/connecting_apres.jpg
+    - image: images/testing_with_Neo.jpg
+    - image: images/radar_tripod.jpg
+    - image: images/radar_components.jpg
 ---
 
 #  We develop computational imaging techniques that sense our environment at a scale, resolution, or quality that was previously impossible. 
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
 {% include section.html %}
 
@@ -44,7 +47,7 @@ We are developing radars and data assimilation techniques for 3D mapping of vege
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -69,7 +72,7 @@ We are creating new methods of monitoring our limitted resources including drone
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -93,7 +96,7 @@ We develop imaging algorithms not only for radar, but also for cameras. We focus
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
