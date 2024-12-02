@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-At Imaging Lab, we believe that a joyful and inclusive environment drives innovation. Our team is dedicated to collaboration and creativity, celebrating our differences, and supporting one another. Join us on our journey to bring new imaging systems and methods to our communities!
+At HI-SNR Lab, we believe that a joyful and inclusive environment drives innovation. Our team is dedicated to collaboration and creativity, celebrating our differences, and supporting one another. Join us on our journey to bring new imaging systems and methods to our communities!
 
 {% include section.html %}
 
