@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The Imaging and Multistatic-radar Group (IMG) develops data assimilation, computational imaging, and signal processing methods in two areas:
+The High-quality Imaging, Signals, N' Radar (HI-SNR) laboratory develops data assimilation, computational imaging, and signal processing methods in two areas:
 
 <details close>
 <summary>1. Multistatic Radar for Environmental Applications?</summary>
