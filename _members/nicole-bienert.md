@@ -2,7 +2,7 @@
 name: Nicole Bienert
 image: images/members/Nicole_Bienert_2024.jpg
 role: pi
-affiliation: University of Colorado, Department of Electrical, Computer and Energy Engineering
+affiliation: Assistant Professor
 aliases:
   - N. Bienert
   - N. L. Bienert
