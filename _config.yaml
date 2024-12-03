@@ -8,12 +8,12 @@ proofer: false
     
 # site social media and other links
 links:
-  email: DNE@DNE.com
+  email: bienert@colorado.edu
   orcid: 0000-0002-9428-327X
   google-scholar: LfBn-L0AAAAJ&hl=en
   github: Imaging-Group
-  twitter: DNE
-  youtube: DNE
+  #twitter: DNE
+  #youtube: DNE
 
 ### jekyll settings
 
